@@ -1,6 +1,6 @@
 # Hi, I'm Jordan 👋
 
-I'm a Computer Science student at FIU graduating Spring 2026. I started programming in Fall 2024 and have been building since. From full-stack web apps to transformer LLMs to Unix mini shells, I enjoy learning as much as I can. I like challenging myself with projects that are both technically demanding and genuinely enjoyable to build.
+I'm a Computer Science student at FIU graduating Spring 2026. I started programming in Fall 2024 and have been building since. From full-stack web apps to transformer LLMs to Unix mini shells, I am a quick learner and enjoy learning as much as I can. I like challenging myself with projects that are both technically demanding and genuinely enjoyable to build.
 
 ## 🛠 Tech Stack
 
@@ -34,4 +34,3 @@ A Unix shell built in C with pipes, I/O redirection, and process management usin
 ## ⚡ Fun Facts
 - Backpacked across Europe
 - Ran a marathon
-- Started programming less than 2 years ago — haven't stopped since
