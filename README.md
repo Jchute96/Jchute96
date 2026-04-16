@@ -24,7 +24,7 @@ Full-stack Django web app for tracking your reading that is deployed on Railway 
 - 67 automated tests with CI/CD via GitHub Actions on every push
 - CSV and PDF export, statistics dashboard, and advanced search/filtering
 
-### 🐚 Simplified Unix Shell
+### Simplified Unix Shell
 A Unix shell built in C with pipes, I/O redirection, and process management using fork/exec.
 
 ## 📫 Let's Connect
